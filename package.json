@@ -1,0 +1,22 @@
+{
+  "name": "responsive-design",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "scss": "node-sass --watch assets/scss -o assets/css" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubenlm25/responsive-design.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubenlm25/responsive-design/issues"
+  },
+  "homepage": "https://github.com/rubenlm25/responsive-design#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
